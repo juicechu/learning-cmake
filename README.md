@@ -12,6 +12,9 @@ This is a simple CMake tutorial project which contains some different scenarios.
 * `hunter-simple`: Demo how to use hunter and gtest.
 * `boost`: Demo how to use boost library.
 
+## Chinese doc 
+* `CMake Practice.pdf`
+
 ## Build steps
 * `cmake -H. -B_builds`
 * `cmake --build _builds`
